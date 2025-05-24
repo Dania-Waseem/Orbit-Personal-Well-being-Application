@@ -64,16 +64,14 @@ This project was developed as part of a **Software Engineering course** and foll
 
 ## 📷 UI Screenshots
 
-> Replace these image links with actual screenshots on GitHub.
-
-- ![Login](images/login.png)
-- ![Signup](images/signup.png)
-- ![Home](images/home.png)
-- ![To-Do List](images/todo.png)
-- ![Journal](images/journal.png)
-- ![Habit Tracker](images/habit.png)
-- ![Mood Tracker](images/mood.png)
-- ![Meditation](images/meditation.png)
+![Image](https://github.com/user-attachments/assets/11530017-d0f1-45d2-9433-680276441f35)
+![Image](https://github.com/user-attachments/assets/32f3991b-b5d9-471a-84b1-eda6956dc133)
+![Image](https://github.com/user-attachments/assets/f7e604e0-a1a7-46dd-a429-2af79b0588f5)
+![Image](https://github.com/user-attachments/assets/74888f43-64ef-4cbf-9a5f-4a4edc80a04d)
+![Image](https://github.com/user-attachments/assets/fbdcb9ad-ed1b-47db-b139-938d78cd0202)
+![Image](https://github.com/user-attachments/assets/b1178cfd-5c31-4cc4-9005-3d0f329ab8da)
+![Image](https://github.com/user-attachments/assets/506ad34d-0425-480c-920f-43f838fbc56e)
+![Image](https://github.com/user-attachments/assets/2a1e4801-b13c-4e6a-9db2-a5ffb4b724ee)
 
 ---
 
