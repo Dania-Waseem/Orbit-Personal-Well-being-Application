@@ -63,9 +63,11 @@ This project was developed as part of a **Software Engineering course** and foll
 ---
 
 ## 📷 UI Screenshots
-
+### Login Page  
 ![Image](https://github.com/user-attachments/assets/11530017-d0f1-45d2-9433-680276441f35)
+### Signup Page  
 ![Image](https://github.com/user-attachments/assets/32f3991b-b5d9-471a-84b1-eda6956dc133)
+### Home Page  
 ![Image](https://github.com/user-attachments/assets/f7e604e0-a1a7-46dd-a429-2af79b0588f5)
 ![Image](https://github.com/user-attachments/assets/74888f43-64ef-4cbf-9a5f-4a4edc80a04d)
 ![Image](https://github.com/user-attachments/assets/fbdcb9ad-ed1b-47db-b139-938d78cd0202)
