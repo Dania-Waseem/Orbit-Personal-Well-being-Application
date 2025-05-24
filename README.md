@@ -69,22 +69,17 @@ This project was developed as part of a **Software Engineering course** and foll
 ![Image](https://github.com/user-attachments/assets/32f3991b-b5d9-471a-84b1-eda6956dc133)
 ### Home Page  
 ![Image](https://github.com/user-attachments/assets/f7e604e0-a1a7-46dd-a429-2af79b0588f5)
+### ToDo List Page  
 ![Image](https://github.com/user-attachments/assets/74888f43-64ef-4cbf-9a5f-4a4edc80a04d)
+### Journal Your Thoughts Page  
 ![Image](https://github.com/user-attachments/assets/fbdcb9ad-ed1b-47db-b139-938d78cd0202)
+### Habit Tracker Page  
 ![Image](https://github.com/user-attachments/assets/b1178cfd-5c31-4cc4-9005-3d0f329ab8da)
+### Mood Tracker Page  
 ![Image](https://github.com/user-attachments/assets/506ad34d-0425-480c-920f-43f838fbc56e)
+### Meditation Page
 ![Image](https://github.com/user-attachments/assets/2a1e4801-b13c-4e6a-9db2-a5ffb4b724ee)
 
----
-
-## 📦 Project Setup
-
-This is not a live application and **not cloneable via GitHub**. It was developed and submitted as a university project. However, to run the code locally:
-
-1. Open the `.sln` (solution file) in Visual Studio.
-2. Ensure local SQL Server support for `.mdf` files is enabled.
-3. Restore NuGet packages if any.
-4. Build the project and run `Form1.cs` or `Form3.cs` as the start form.
 
 ---
 
